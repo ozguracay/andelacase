@@ -1,0 +1,11 @@
+{
+    "xgbclassifier__max_depth": [
+        5,
+        10,
+        50
+    ],
+    "xgbclassifier__n_estimators": [
+        100,
+        1000
+    ]
+}
